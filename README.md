@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @baneet
-- 👀 I’m interested in reyna
+- 👀 I’m interested in .
 - 🌱 I’m currently learning c,c++,python
 - 📫 How to reach me ig-mebaneet
 
